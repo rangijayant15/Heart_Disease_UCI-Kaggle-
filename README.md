@@ -21,7 +21,7 @@ Attribute Information:
 Model Information :
 > 1.Constructed a neural network using Keras API.
 > 2.Neural Network consists of an input,output and two hidden layers.
-> 3.There are some features which needs to be pre-processed which is done according to the trends in bar corresponding to each     feature. /n
+> 3.There are some features which needs to be pre-processed which is done according to the trends in bar corresponding to each     feature.
 > 4.Split the data into training and test set in ratio 1:4 .
 > 5.Achieved an accuracy of around 85% 
 > 6.Data is also trained on Random Forest Classifier which gives an accuracy around 90%.
